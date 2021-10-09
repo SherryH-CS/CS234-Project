@@ -1,0 +1,5 @@
+This program is designed to simulate simple accountant operations of a businesses that bid for projects. 
+The program should house a list of Clients that have at least one budget active, with the option to hold more than one budget for each client.
+Every budget should have at least an estimate, name, and project description, with the potential to hold a list of expense and payment information.
+Each budget should be able to give a total of expenses and payments, as well as the estimate vs expense, and profit for the project.
+Program should print two reports: a client list and a budget report for each client.  
